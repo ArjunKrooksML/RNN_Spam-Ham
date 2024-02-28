@@ -10,3 +10,6 @@ from keras.models import Sequential
 from keras.layers import Dense, LSTM, Embedding
 from sklearn.model_selection import train_test_split
 from keras.preprocessing import sequence
+
+
+The dataset could be found here : https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
